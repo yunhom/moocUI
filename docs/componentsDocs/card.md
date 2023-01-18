@@ -2,8 +2,8 @@
 卡片组件
 
 ### 示例
-<m-card imgSrc="moocUI/logo.png" summary="Vue"/>
-cç
+<m-card imgSrc="/moocUI/logo.png" summary="Vue"/>
+
 ### 代码
 ```html
 <m-card imgSrc="/logo.png" summary="Vue"/>
